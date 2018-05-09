@@ -1,0 +1,10 @@
+~/Gblocks_0.91b/Gblocks 5401/5401.fas_taxa.fasta
+tt --> DNA
+b
+g --> Check how much got used
+5
+5 --> With Half
+g --> Check how much got used
+-- Pick either 5 (none) or 5 (with half)
+m
+q
