@@ -1,0 +1,19 @@
+Good:
+Only 1 or 2 hits for each species
+At least two regions of 20-25 bases having 3 or fewer mismatches
+	These regions might span more than one line
+	Mismatches are only 1 base in length and 2+ bases apart
+	Idealy, any mismatches are only between 2 bases, not 3 (e.g., A/C, not A/C/T)
+	Ends of the region have 4+ identical bases
+	At least 2 of the last 3 bases in the 3' end of the potential primer are G/C (end of F primer, start of R primer, in the MSA)
+	G/C ratio of the region is 40-70%
+The two regions must be 800-2200bp apart (not counting gaps)
+Example: 648_4
+
+Clean Up:
+At least one hit for each species aligns well. (see 313_2 v. 429_7)
+	>>Maybe they have patterned numbers of gaps?
+	Not always the best indicator, but maybe bad hits are much shorter/longer? (see 649_1/709_2)
+After exclusion of "bad" hits, MSA must meet criteria for Good.
+	649_1: keep only KN042426, 649_1, AZCI01001084, and KN042417
+	709_2: keep 709_2, KN042427, and AZCI01001030
